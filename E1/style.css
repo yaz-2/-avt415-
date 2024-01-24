@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {text-align: left;
+	margin-left: 30px
+}
+
+h4 {text-align: left;
+	margin-left: 30px
+}
+
+h6 {text-align: left;
+margin-left: 30px}
+
+
+p { margin-top: 30px;
+margin-left: 30px; 
+margin-bottom: 30px;
+margin-right: 1000px}
+
+
+ul {border-style: solid;}
