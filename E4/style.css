@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+	background-color: #DEEFB7;
+}
+
+h1, h2 {
+    color: #682D63;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p {
+    color: #414288;
+	font-family: Arial, sans-serif;
+}
+
+strong {
+    color: #414288;
+}
